@@ -55,7 +55,7 @@ Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Ar
 
 ## Notes:
 
-### This Application for the LAN API. For the HTTP API check out [Art-Net for LIFX-HTTP](https://github.com/jshea2/Art-Net-for-LIFX-HTTP)
+### This Application is for the LAN API. For the HTTP API check out [Art-Net for LIFX-HTTP](https://github.com/jshea2/Art-Net-for-LIFX-HTTP)
 
 
 - Other features not available, but currently in the works:
