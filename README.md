@@ -1,6 +1,5 @@
 # Art-Net-for-LIFX-LAN
 ### Standalone App that Converts [Art-Net](https://art-net.org.uk/) Data into RGB Values for LIFX Bulbs on your Local Network
-(Control LIFX Bulbs on your local network via Art-Net protocol)
 #
 
 <img width="170" alt="Screen Shot 2021-03-14 at 6 36 51 PM" src="https://user-images.githubusercontent.com/70780576/111092794-4e91d980-84f4-11eb-92b0-e97d077766ba.png">
