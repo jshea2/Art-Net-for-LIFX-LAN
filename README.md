@@ -6,7 +6,7 @@ Control LIFX Bulbs on your local network via Art-Net protocol
 <img width="170" alt="Screen Shot 2021-03-14 at 6 36 51 PM" src="https://user-images.githubusercontent.com/70780576/111092794-4e91d980-84f4-11eb-92b0-e97d077766ba.png">
 
 
-https://user-images.githubusercontent.com/70780576/111093490-4e92d900-84f6-11eb-982a-6eda6584a025.mp4
+<img width="370" alt="Screen Shot 2021-03-14 at 6 36 51 PM" src="https://user-images.githubusercontent.com/70780576/111093928-556e1b80-84f7-11eb-9338-96ddf4b8ef7b.gif">
 
 
 
@@ -16,6 +16,8 @@ Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Ar
 ## Setting Up Physical LIFX Bulbs
  - Install LIFX Bulbs and Connect to WIFI (Only works on 2.4Ghz, not 5G)
    - If you're having trouble connecting refer to [LIFX Troubleshooting Website](https://support.lifx.com/hc/en-us/categories/200238164-Set-Up-Troubleshooting)
+ - DO NOT name/label your lights as just a number, because it will show up blank
+    - *Example:* naming your bulb "1A" or "A 1" is OK, but naming it just "1" or "23" will NOT work
 
 ## Setting Up *'Art-Net for LIFX' App*'
 
@@ -51,6 +53,7 @@ Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Ar
 - Inspired by: [lifxe131](https://github.com/cpuchip/lifxe131/blob/master/e131_receive.py)
 - npm library: [dmxnet](https://www.npmjs.com/package/dmxnet)
 - npm library: [node-lifx-lan](https://www.npmjs.com/package/node-lifx-lan)
+- and a special thanks to Lightsteed for beta testing
 
 ## Notes:
 
