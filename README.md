@@ -5,6 +5,10 @@ Control LIFX Bulbs on your local network via Art-Net protocol
 
 <img width="170" alt="Screen Shot 2021-03-14 at 6 36 51 PM" src="https://user-images.githubusercontent.com/70780576/111092794-4e91d980-84f4-11eb-92b0-e97d077766ba.png">
 
+
+
+
+
 ## [Download Now]()
 
 Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Art-Net Software](http://dmxking.com/m/support/13-control-software/80-artnet-sacn-software)
@@ -42,11 +46,17 @@ Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Ar
    - You can use generic 3-channel RGB profiles to patch
    - *Fun Fact:* The Free version of QLab lets you do 16-channels, so you can control 5 LIFX fixtures separately
 
+## Acknowledgements
+- Inspired by: [lifxe131](https://github.com/cpuchip/lifxe131/blob/master/e131_receive.py)
+- npm library: [dmxnet](https://www.npmjs.com/package/dmxnet)
+- npm library: [node-lifx-lan](https://www.npmjs.com/package/node-lifx-lan)
+
 ## Notes:
 
 - Other features not available, but currently in the works:
    - Deleting "Patched" Bulbs
 
+## Support:
 Join the Discord server Community: 
 
 <a href="https://discord.gg/FJ79AKPgSk">
