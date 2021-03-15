@@ -8,8 +8,6 @@
 <img width="370" alt="Screen Shot 2021-03-14 at 6 36 51 PM" src="https://user-images.githubusercontent.com/70780576/111093928-556e1b80-84f7-11eb-9338-96ddf4b8ef7b.gif">
 
 #
-This Application is for the LAN API check out the [HTTP API Applicaiton](https://github.com/jshea2/Art-Net-for-LIFX-HTTP)
-
 ## [Download Now]()
 
 Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Art-Net Software](http://dmxking.com/m/support/13-control-software/80-artnet-sacn-software)
@@ -56,6 +54,9 @@ Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Ar
 - and a special thanks to Lightsteed for beta testing
 
 ## Notes:
+
+### This Application for the LAN API. For the HTTP API check out [Art-Net for LIFX-HTTP](https://github.com/jshea2/Art-Net-for-LIFX-HTTP)
+
 
 - Other features not available, but currently in the works:
    - Deleting "Patched" Bulbs
