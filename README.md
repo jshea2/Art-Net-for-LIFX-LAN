@@ -17,7 +17,7 @@ Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Ar
  - DO NOT name/label your lights as just a number, because it will show up blank
     - *Example:* naming your bulb "1A" or "A 1" is OK, but naming it just "1" or "23" will NOT work
 
-## Setting Up *'Art-Net for LIFX' App*'
+## Setting Up *'Art-Net for LIFX-LAN' App*'
 
 
 <img width="317" alt="Screen Shot 2021-03-14 at 6 36 51 PM" src="https://user-images.githubusercontent.com/70780576/111092799-55b8e780-84f4-11eb-9461-d1194683fd98.png">
