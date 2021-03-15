@@ -8,6 +8,7 @@
 <img width="370" alt="Screen Shot 2021-03-14 at 6 36 51 PM" src="https://user-images.githubusercontent.com/70780576/111093928-556e1b80-84f7-11eb-9338-96ddf4b8ef7b.gif">
 
 #
+This Application is for the LAN API check out the [HTTP API Applicaiton](https://github.com/jshea2/Art-Net-for-LIFX-HTTP)
 
 ## [Download Now]()
 
@@ -66,4 +67,4 @@ Join the Discord server Community:
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a>
 
-# [Download "Art-Net for LIFX" Now]()
+## [Download "Art-Net for LIFX-LAN" Now]()
