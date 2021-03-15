@@ -49,8 +49,7 @@ Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Ar
 
 ## Acknowledgements
 - Inspired by: [lifxe131](https://github.com/cpuchip/lifxe131/blob/master/e131_receive.py)
-- npm library: [dmxnet](https://www.npmjs.com/package/dmxnet)
-- npm library: [node-lifx-lan](https://www.npmjs.com/package/node-lifx-lan)
+- npm library: [dmxnet](https://www.npmjs.com/package/dmxnet) and [node-lifx-lan](https://www.npmjs.com/package/node-lifx-lan)
 - and a special thanks to Lightsteed for beta testing
 
 ## Notes:
