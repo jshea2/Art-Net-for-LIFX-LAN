@@ -20,7 +20,7 @@ Requires: Any [LIFX Color Bulb](https://www.lifx.com/pages/lightbulbs) & Any [Ar
 ## Setting Up *'Art-Net for LIFX-LAN' App*'
 
 
-<img width="317" alt="Screen Shot 2021-03-14 at 6 36 51 PM" src="https://user-images.githubusercontent.com/70780576/111092799-55b8e780-84f4-11eb-9461-d1194683fd98.png">
+<img width="317" alt="Screen Shot 2021-03-14 at 6 36 51 PM" src="https://user-images.githubusercontent.com/70780576/112042218-81dff400-8b04-11eb-8ec0-975007287063.png">
 
 
 
